@@ -1,0 +1,46 @@
+body{
+margin: 0px;
+}
+
+.index_navigation_h2{
+    padding: 20px;
+    text-align: center;
+    color: #382c23e5;
+    font-family: 'Roboto Condensed', sans-serif;
+    size: inherit;
+    margin: 0px;
+    background-color: rgb(226, 222, 215);
+}
+
+.electrical_navigation_h2{
+    padding: 20px;
+    text-align: center;
+    color: #382c23e5;
+    font-family: 'Roboto Condensed', sans-serif;
+    size: inherit;
+    margin: 0px;
+}
+
+.cassie_navigation_h2{
+    padding: 20px;
+    text-align: center;
+    color: #382c23e5;
+    font-family: 'Roboto Condensed', sans-serif;
+    size: inherit;
+    margin: 0px;
+}
+
+.index_navigation_h2:hover, .electrical_navigation_h2:hover, .cassie_navigation_h2:hover{
+    background-color: rgb(226, 222, 215);
+}
+
+.navigation_container{
+    background-color: rgb(245, 237, 231);
+    display: flex;
+    flex-direction: row;
+    border-bottom: rgb(226, 222, 215) solid 1px;
+}
+
+a{
+    text-decoration: none;  
+}
